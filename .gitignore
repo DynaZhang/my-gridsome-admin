@@ -109,6 +109,5 @@ coverage
 .env
 license.txt
 exports
-*.cache
+.cache
 build
-.strapi-updater.json
